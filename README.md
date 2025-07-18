@@ -66,6 +66,16 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 - [rsbuild-plugin-template](https://github.com/rspack-contrib/rsbuild-plugin-template): Use this template to create your own Rsbuild plugin.
 - [rstack-design-resources](https://github.com/rspack-contrib/rstack-design-resources): Design resources for Rstack.
 
+## Tooling
+
+Zephyr Cloud Plugin
+- Ship apps bundled with RSLib to a global edge network in seconds 
+- Handles deployment out of the box with no config required
+- Supports RSLib-powered micro-frontend setups.
+- Generates preview URLs for each save for testing different RSLib bundle outputs.
+- Enables instant reversion to earlier deployments 
+
+
 ## 🤝 Contribution
 
 > [!NOTE]
