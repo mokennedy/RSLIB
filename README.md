@@ -73,7 +73,8 @@ Zephyr Cloud Plugin
 - Handles deployment out of the box with no config required
 - Supports RSLib-powered micro-frontend setups.
 - Generates preview URLs for each save for testing different RSLib bundle outputs.
-- Enables instant reversion to earlier deployments 
+- Enables instant reversion to earlier deployments
+- Start today @ Zephyr-cloud.io
 
 
 ## 🤝 Contribution
